@@ -1,0 +1,3 @@
+/home/xsauer03/schule/2bit/IFJ/IFJ_21/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/xsauer03/schule/2bit/IFJ/IFJ_21/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xsauer03/schule/2bit/IFJ/IFJ_21/cmake-build-debug/CMakeFiles/IFJ_21.dir
